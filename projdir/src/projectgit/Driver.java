@@ -8,6 +8,10 @@ public class Driver {
 		glad();
 		sad();
 		hungry();
+		him();
+		her();
+		happy();
+		
 		
 
 	}
